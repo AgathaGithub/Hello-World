@@ -1,0 +1,9 @@
+package briup.choa01;
+
+public class Hello {
+	public static void main(String[] args) {
+		System.out.println("hi");
+		System.out.println("My favourite is play");
+		System.out.println("Let`s go!");
+	}
+}
